@@ -31,7 +31,7 @@ class SignInPage extends StatelessWidget {
             ),
           ),
           Text(
-            'Halo, \nSelamat Datang!',
+            'Halo, \nSelamat Datang test!',
             style: tealTextStyle.copyWith(
               fontSize: 20,
               fontWeight: semiBold,
